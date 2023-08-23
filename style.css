@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+#tkk{
+    width:600px;
+    height:380px;
+    background-color: aqua;
+    position: relative;
+    left: 250px;
+    top:10px;
+    text-align: center;
+    margin: 100px;
+    
+}
+.inputdiv{
+    padding: 15px;
+}
+#result{
+    color: black;
+    padding: 20px;
+}
